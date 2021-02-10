@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+#PYTHON
 
-You can use the [editor on GitHub](https://github.com/Gentle-1/Gentle-1.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+*Characteristic:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Python is a combination of interpretive, compiled, interactive and objectoriented scripting language.
 
-### Markdown
+Python is designed to be highly readable, and has a more distinctive grammatical structure than other languages, which use English keywords more often, and punctuation in other languages.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Python is an interpreted language: there is no compilation part of the development process, similar to PHP and Perl.
 
-```markdown
-Syntax highlighted code block
+Python is an interactive language: You can execute code directly after a Python prompt >>>After directly executing the code.
 
-# Header 1
-## Header 2
-### Header 3
+Python is an object-oriented language: This means that Python supports an object-oriented style or programming technique in which code is encapsulated in objects.
 
-- Bulleted
-- List
+Python is a beginner's language: Python is a great language for beginner programmers, supporting the development of a wide range of applications, from simple word processing to the WWW browser to games.
 
-1. Numbered
-2. List
+Thus, Python has the following characteristics:
+Easy to learn: Python has relatively few keywords, a simple structure, and a well-defined syntax that makes it easier to learn.
 
-**Bold** and _Italic_ and `Code` text
+Easy to read: Python code is more clearly defined.
 
-[Link](url) and ![Image](src)
-```
+Easy to maintain: Python's success lies in the fact that its source code is fairly easy to mainta
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+An extensive standard library: One of Python's greatest strengths is its rich library, which is crossplatform and well compatible on UNIX, Windows, and Macintosh.
 
-### Jekyll Themes
+*Aplication field:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gentle-1/Gentle-1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+web devement
 
-### Support or Contact
+web crawler
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+AI
+
+Automatic operation and maintenance
+
+Big data development
+
+Data analyse and so on 
